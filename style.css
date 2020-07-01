@@ -86,3 +86,7 @@ h4{
     margin: 0 24px;
     z-index: -1;
 }
+.footer{
+    text-align: center;
+    padding: 50px;
+}
